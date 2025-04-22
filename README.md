@@ -34,5 +34,5 @@
 
 ## 📫 Reach Me
 
-- 📧 Email: your-email@example.com  
+- 📧 Email: nabeelmansoori28@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/nabeel-mansoori-81a779130/
