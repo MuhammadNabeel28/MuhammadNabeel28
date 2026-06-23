@@ -35,6 +35,7 @@ IDE/Platforms: Visual Studio, Android Studio, VS Code
 Databases: SQL Server, Firebase Realtime DB, SQLite, Hive
 
 📫 Reach Me
+
 📧 Email: nabeelmansoori28@gmail.com
 
 💼 LinkedIn: linkedin.com/in/nabeel-mansoori-81a779130
