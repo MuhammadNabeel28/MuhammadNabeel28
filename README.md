@@ -38,4 +38,4 @@ Databases: SQL Server, Firebase Realtime DB, SQLite, Hive
 
 📧 Email: nabeelmansoori28@gmail.com
 
-💼 LinkedIn: linkedin.com/in/nabeel-mansoori-81a779130
+💼 LinkedIn:  https://www.linkedin.com/in/nabeel-mansoori-81a779130/
