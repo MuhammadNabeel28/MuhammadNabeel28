@@ -23,6 +23,10 @@
 
 ✅ Hands-on Hardware Integration: worked with RFID devices, Urovo handheld terminals, and attendance machines (event callbacks, recognition records, real-time sync).
 
+✅ FBR Integration: implemented invoice registration and verification flows with FBR APIs, ensuring compliance with tax regulations.
+
+✅ POS & Attendance Machine Integration: created APIs and callback handlers for POSPro devices, managing user registration, QR code binding, and event-based attendance tracking.
+
 🛠️ Tech Stack
 Languages: C#, Dart, JavaScript
 
